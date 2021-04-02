@@ -1,6 +1,9 @@
 ---
 title: "자기소개"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+date: 2021-04-02 08:26:28 -0400
+categories: Me
 ---
 안녕하세요
+
+django와 html, css 를 공부하고 있는
+이태성이라고 합니다.
