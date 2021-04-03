@@ -7,3 +7,5 @@ categories: Me
 
 django와 html, css 를 공부하고 있는
 이태성이라고 합니다.
+
+열심히 공부해보겠습니다.
