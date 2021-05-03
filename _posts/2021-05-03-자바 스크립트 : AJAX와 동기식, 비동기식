@@ -1,0 +1,35 @@
+---
+title: "자바 스크립트 : AJAX와 동기식, 비동기식"
+date: 2021-05-03 
+categories: 자바 스크립트
+---
+## 1. AJAX
+- AJAX는 서버와 통신할 때 쓰는거
+- 요즘은 주로 JSON 형식
+- 페이지 일부만 업데이트 시킨다.
+
+## 2. 동기식, 비동기식
+1) Call Stack(실행되는거)
+2) Web API(다른 공장)
+3) Task Queue(제품 대기실)
+4) Event Loop(담당자)
+
+## 3. Zero delay
+Zero delay 란 실제로 0초를 넣는것보단
+최소한의 시간을 말한다. Zero delay를 쓰면 즉시 작동 애들보다 맨 마지막으로 작동한다.
+
+
+
+
+pending 진행중 
+resolved, fulfilled 완료
+rejected 실패
+
+
+
+.then
+.catch
+.finally
+
+최신 기술, 여유가 되는 사람은 보셈
+async, await
